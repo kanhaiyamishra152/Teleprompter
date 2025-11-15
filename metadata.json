@@ -1,0 +1,7 @@
+{
+  "name": "AI Teleprompter & Recorder",
+  "description": "Upload or write a script, and record your voiceover with a scrolling teleprompter. Control the speed and download your recording as an MP3 file.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
